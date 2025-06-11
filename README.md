@@ -1,5 +1,6 @@
 # Advanced-css
-Project to practice advanced css features
+Proyecto para practicar conceptos de css avanzado
+Se divide cada tema en una rama diferente
 
 ## Pseudoclase has
 
