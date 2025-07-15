@@ -23,3 +23,8 @@ La función pseudo-clase de CSS :is() toma una lista de selectores como argument
 La pseudoclase :not() representa elementos que no coinciden con una lista de selectores, sirve como un filtro o una negación.
 
 <img width="329" height="113" alt="image" src="https://github.com/user-attachments/assets/c0ff5233-bd3b-4132-bcc2-06117af02cac" />
+
+## Pseudoclase nth-child
+La pseudoclase :nth-child() nos permite seleccionar uno o más elementos en función de su posición entre un grupo de hermanos.
+
+<img width="284" height="106" alt="image" src="https://github.com/user-attachments/assets/19e59d92-578c-480f-a896-97941b3bf5d9" />
