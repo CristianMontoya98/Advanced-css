@@ -1,0 +1,25 @@
+.card {
+    border: 2px solid black;
+    padding: 20px;
+    font-size: 16px;
+    width: 100%;
+    max-width: 600px;
+    border-radius: 5px;
+}
+.container {
+    container-type: inline-size;
+    width: 100%;
+    border: 1px solid red;
+    padding: 10px;
+    max-width: 900px;
+}
+/* @media(max-width: 600px) {
+    .card {
+        background-color: aquamarine;
+    }
+} */
+ @container(max-width: 400px){
+    .card {
+        background-color: aquamarine;
+    }
+ }
