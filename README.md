@@ -28,3 +28,7 @@ La pseudoclase :not() representa elementos que no coinciden con una lista de s
 La pseudoclase :nth-child() nos permite seleccionar uno o más elementos en función de su posición entre un grupo de hermanos.
 
 <img width="284" height="106" alt="image" src="https://github.com/user-attachments/assets/19e59d92-578c-480f-a896-97941b3bf5d9" />
+
+## Container Queries
+Se usan para comportamientos responsivos en base al tamaño del contenedos y no de la pantalla
+<img width="398" height="132" alt="image" src="https://github.com/user-attachments/assets/ef204678-3377-41ab-b9de-24e5c0e33320" />
