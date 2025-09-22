@@ -9,10 +9,21 @@ body {
 .card {
     width: 300px;
     padding: 20px;
+    margin: 20px;
     font-size: 1.2rem;
     text-align: center;
     border-radius: 15px;
     color: white;
     background: rgba(255, 255, 255, 0.2);
-    backdrop-filter: blur(10px) grayscale(50%);
+    backdrop-filter: blur(10px);
+}
+
+.plus-lighter {
+    color: black;
+    mix-blend-mode: plus-lighter;
+}
+
+.color-burn {
+    background-color: rgb(191, 0, 0);
+    mix-blend-mode: color-burn;
 }
